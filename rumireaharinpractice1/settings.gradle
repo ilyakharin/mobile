@@ -1,0 +1,4 @@
+rootProject.name = "ru.mirea.harin.practice1"
+include ':app'
+include ':layouttype'
+include ':clickbuttons'
