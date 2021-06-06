@@ -1,6 +1,0 @@
-rootProject.name = "ru.mirea.harin.practice4"
-include ':app'
-include ':accelerometer'
-include ':camera'
-include ':audiorecord'
-include ':sensor'

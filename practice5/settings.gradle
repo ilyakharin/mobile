@@ -1,0 +1,6 @@
+rootProject.name = "practice4"
+include ':app'
+include ':accelerometer'
+include ':audiorecord'
+include ':camera'
+include ':sensor'
